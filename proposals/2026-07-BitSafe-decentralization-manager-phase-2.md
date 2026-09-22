@@ -48,7 +48,7 @@ Reward Engine will be resubmitted as a separate Development Fund proposal once C
 
 **Acceptance Criteria.** Demonstrated on DevNet:
 
-- Decentralize an existing external party. A wallet provider adds N co-validating hosts to an existing external party through the tenant API and raises the threshold to M, with the party continuing to transact on its existing hosts throughout.
+- Decentralize an existing external party. A provider adds N co-validating hosts to an existing external party through the tenant API and raises the threshold to M, with the party continuing to transact on its existing hosts throughout.
 - Decentralize an existing local party. A local party is converted end-to-end to a co-validated, externally-signed configuration, and externally-signed submissions succeed against the new topology.
 - Party identity preserved. In every successful acceptance path, the party ID, its contracts, and any featured-app rights remain unchanged.
 - Open-source release. All funded deliverables are open-sourced under Apache 2.0 under BitSafe's GitHub organization.
